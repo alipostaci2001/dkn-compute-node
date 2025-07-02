@@ -4,7 +4,7 @@
 
 <p align="center">
   <h1 align="center">
-    Dria Compute Node
+    Dria Compute Node.
   </h1>
   <p align="center">
     <i>Dria Compute Node serves the computation results within Dria Knowledge Network.</i>
